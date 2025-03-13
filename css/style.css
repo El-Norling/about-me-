@@ -1,7 +1,7 @@
 /* Feel free to change me and make me your own! */
 
 body {
-  background-color: #edd8c3; 
+  background-color: red; 
   font-family: Georgia, serif; 
 }
 
@@ -10,13 +10,25 @@ article {
   margin-right: 10vw; 
 }
 
+img {
+  display: block;
+  margin: auto;
+  width: 50%;
+  border: dotted;
+}
+
 h1 {
   text-align: center; 
   font-size: 48px; 
 }
 
 h2 {
+  text-align: center; 
   font-size: 36px; 
+}
+
+h3 { 
+  font-size: 30px; 
 }
 
 p {
